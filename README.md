@@ -40,10 +40,9 @@ Metrics: 5 metrics:
 -click-through rate
 
 Analytics tools:
- 2 analytic tools I’ll use are:
- google analytics
+2 analytic tools I’ll use are:
  
- piwik
+google analytics & piwik
 
 5 milestones:
 
