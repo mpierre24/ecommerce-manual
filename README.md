@@ -10,11 +10,13 @@ Purpose for this site: The purpose of this site is to provide services and sell 
 Similar websites: 
 
 https://www.dickssportinggoods.com
+
 -sporting goods retailer offering an extensive assortment of high quality sports equipment, apparel, footwear and accessories.
 
 -utilizes a simple easy to navigate UI with categories and sections that are simple and start broad and get more specific for each group of products
 
 https://www.nike.com/
+
 -nike allows users easy design their on custom apparel
 
 -connected to all social media platforms that includes photos, instructive videos and customer reviews.
