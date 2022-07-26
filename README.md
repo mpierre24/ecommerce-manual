@@ -85,6 +85,22 @@ Text Tools:
 -Textise (https://www.textise.net/)
 Markdown
 
+Reasons for design choices:
+
+
+I used large images and Inter font text to grab attention and put eyes where I needed them to be.
+
+The colors I chose to accent my site were Green and Red. I chose the colors simply I felt it would be appealing for the UX.
+
+The font I used also just felt great! It just just goes well with the layout.
+
+
+2 main Functions of the Site:
+
+To allow Customers to purchase items and equipment on the site
+
+To allow Customers to sign up for Mailing List
+
 Accessibility Considerations:
 
 -Large font sizes
