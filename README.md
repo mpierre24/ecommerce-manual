@@ -10,39 +10,47 @@ Purpose for this site: The purpose of this site is to provide services and sell 
 Similar websites: 
 
 https://www.dickssportinggoods.com
+-sporting goods retailer offering an extensive assortment of high quality sports equipment, apparel, footwear and accessories.
 
-https://www.modells.com/
+-utilizes a simple easy to navigate UI with categories and sections that are simple and start broad and get more specific for each group of products
+
+https://www.nike.com/
+-nike allows users easy design their on custom apparel
+
+-connected to all social media platforms that includes photos, instructive videos and customer reviews.
+
 
 Characteristics of my website: ease of navigation, effective search, accurate product description.
 
 Purpose and Goals : 5 goals for my site 
 
--provide visitors & customers a unique experience
+-Provide good prices on apparel and other items such as equipment
 
--increase sales 
+-allow an easy way customization for customers 
 
 -make website mobile responsive
 
--establish a loyal customer base
+-establish an easy way for users to design custom appara
 
 -get my website promoted on multiple platforms
 
 Metrics: 5 metrics:
 
--shopping cart abandonment rate
+-Number of visitors over time
 
--email marketing metrics
+-How many visitors purchase Items
 
--sales conversion rate
+-What many customers become repeat customers/join mailing list
 
--bounce rate 
+-How many carts are abandoned
 
--click-through rate
+-Which products are the most purchased and the best reviewed
 
 Analytics tools:
-2 analytic tools I’ll use are:
  
-google analytics & piwik
+-Google Analytics (https://analytics.google.com)
+
+-Optimizley (https://optimizley.com)
 
 5 milestones:
 
@@ -55,6 +63,28 @@ google analytics & piwik
 4.) Expanding into new markets or countries
 
 5.) Strengthening brand awareness and reputation
+
+Image Tools:
+
+-Burst (https://burst.shopify.com)
+
+-Google images (https://www.google.com/imghp?hl=en&ogbl)
+
+-Lorem Picsum (https://picsum.photos)
+
+Text Tools:
+
+-Grammarly (https://www.grammarly.com/)
+
+-Textise (https://www.textise.net/)
+Markdown
+
+Accessibility Considerations:
+
+-Large font sizes
+
+-Screenly (https://www.screenly.io/) makes sure the site is accessible through most if not every device.
+
 
 Figma mock-up link below 
 
