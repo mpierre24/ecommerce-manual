@@ -36,6 +36,10 @@ Purpose and Goals : 5 goals for my site
 
 -get my website promoted on multiple platforms
 
+Target Audience
+
+-My target audience is athletic youth and adults who are in or looking to get back in the sports/fitness world
+
 Metrics: 5 metrics:
 
 -Number of visitors over time
